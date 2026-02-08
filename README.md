@@ -17,6 +17,7 @@ An opinionated list of color tools and resources for data visualization and user
 - [Hayk Color Scale Generator](https://hihayk.github.io/scale/) Create and preview color scales.
 - [Leonardo for Data Viz](https://leonardocolor.io/scales.html) Create sequential, diverging, or qualitative scales
 - [Open Color](https://yeun.github.io/open-color/) A a color scheme for UI design of 12 color-blind safe colors.
+- [OKPalette](https://okpalette.color.pizza) extracts beautiful color palettes from images.
 - [Paletton](http://paletton.com/) Web-based color palette picker.
 - [Poline](https://meodai.github.io/poline/) An esoteric color palette generation library
 - [Viz Palette](https://projects.susielu.com/viz-palette) Born out of a frustration with picking colors for data visualizations. This project is optimized for tweaking, copying, and pasting in and out of JavaScript.
@@ -36,7 +37,7 @@ An opinionated list of color tools and resources for data visualization and user
 
 
 ## Articles About Color
-- [Color in Data Vis](https://blog.datawrapper.de/category/color-in-data-vis/) Blog posts from Lisa Charlotte Muth on datawrapper.de
+- [Color in Data Visualization](https://blog.datawrapper.de/category/color-in-data-vis/) Blog posts from Lisa Charlotte Muth on datawrapper.de
 - [How to Create Brand Colors for Data Visualization Style Guidelines](https://nightingaledvs.com/how-to-create-brand-colors-for-data-visualization-style-guidelines/)
 
 
